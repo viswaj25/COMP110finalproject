@@ -22,4 +22,8 @@ This project analyzes survey data fromp COMP110 students to explore whether addi
 
 
 ## Conclusions
-The analysis supports the idea of implementing study guides for quiz preparation. Students who rated quiz preparation as more effective tended to find the course less difficult and reported higher understanding. However, this change would require additional work from instructional staff, and students may over-rely on study guides and neglect other resources.
+The analysis of the data supports the idea of implementing simple study guides for quiz preparation. The visuals show that most students rate quiz prep highly, and those who do rate it higher tend to find the course less difficult. The scatterplot shows that those who find quiz prep effective also tend to have higher understanding. So the data supports the idea that quiz preparation is helpful for students, meaning the implementation of study guides would create value.
+
+We could potentially refine this idea by surveying students on what study methods are most effective for them. The course provides review sessions and practice problems before quizzes which are beneficial to many students, and we could assess whether adding a study guide would be truly beneficial.
+
+There are potential costs with implementing a study-guide, as it would require more work from the instructional staff. Additionally, students may rely too much on the study-guide and neglect other resources that give a deeper understanding. 
